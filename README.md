@@ -36,3 +36,5 @@ __agora vai dar certo__
 
 [google](https://www.google.com)
 (https://www.horadecodar.com.br)
+
+contribuidor principal: https://www.github.com/sanchejruy
