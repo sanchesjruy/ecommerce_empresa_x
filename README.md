@@ -22,4 +22,9 @@ __agora vai dar certo__
     2. desconto especial para grupos de clientes
     3. CSS diferente para grupos de clientes
 2. Integracao com outros pagamentos
+
 3. Sistema de bonus primeira compra
+
+### imagem local
+
+![Logo do python](img/python.png)
