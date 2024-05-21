@@ -30,4 +30,4 @@ __agora vai dar certo__
 ![Logo do python](img/python.png)
 
 ### Imagem externa
-![Logo do PHP](https://images.app.goo.gl/bS9vinzixQRcJX7X7)
+![Logo do PHP](https://images.app.goo.gl/kMP2EUM3skGx2wQr6)
