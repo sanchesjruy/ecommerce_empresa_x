@@ -14,3 +14,9 @@ __agora vai dar certo__
 * JavaScript
 * PHP
 * MySQL
+
+### Funcionalidade a desenvolver;
+
+1. Area de membros
+2. Integracao com outros pagamentos
+3. Sistema de bonus primeira compra
