@@ -18,5 +18,8 @@ __agora vai dar certo__
 ### Funcionalidade a desenvolver;
 
 1. Area de membros
+    1. login diferente para grupos de clientes
+    2. desconto especial para grupos de clientes
+    3. CSS diferente para grupos de clientes
 2. Integracao com outros pagamentos
 3. Sistema de bonus primeira compra
