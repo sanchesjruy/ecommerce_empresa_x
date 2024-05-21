@@ -6,3 +6,11 @@ __vamos ver se funciona__
 _**tenho que aprender**_
 ### teste
 __agora vai dar certo__
+
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
