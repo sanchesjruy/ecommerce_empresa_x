@@ -28,3 +28,6 @@ __agora vai dar certo__
 ### imagem local
 
 ![Logo do python](img/python.png)
+
+### Imagem externa
+![Logo do PHP](https://images.app.goo.gl/bS9vinzixQRcJX7X7)
