@@ -49,7 +49,7 @@ contribuidor principal: https://www.github.com/sanchejruy
 
 ## Listas de tarefas a fazer:
 
-- [ X ] Area de membros
+- [X] Area de membros
 - [] Integracao com outros pagamentos
 - [] Sistemas de bonus
-- [ X ] css do rodape
+- [X] css do rodape
