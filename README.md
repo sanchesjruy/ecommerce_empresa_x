@@ -42,7 +42,14 @@ contribuidor principal: https://www.github.com/sanchejruy
 ## codigo da funcao soma
 
 '''javascript
-function soma(a, b){
+    function soma(a, b){
     return a + b;
 }
 '''
+
+## Listas de tarefas a fazer:
+
+- [ X ] Area de membros
+- [] Integracao com outros pagamentos
+- [] Sistemas de bonus
+- [ X ] css do rodape
