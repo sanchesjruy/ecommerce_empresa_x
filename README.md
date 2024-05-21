@@ -38,3 +38,11 @@ __agora vai dar certo__
 (https://www.horadecodar.com.br)
 
 contribuidor principal: https://www.github.com/sanchejruy
+
+## codigo da funcao soma
+
+'''javascript
+function soma(a, b){
+    return a + b;
+}
+'''
