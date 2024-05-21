@@ -35,4 +35,4 @@ __agora vai dar certo__
 ## links interessantes
 
 [google](https://www.google.com)
-[hora de codar](https://www.horadecodar.com.br)
+(https://www.horadecodar.com.br)
